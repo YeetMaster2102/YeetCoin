@@ -1,0 +1,9 @@
+Building Yeetcoin
+
+See doc/readme-qt.rst for instructions on building Yeetcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Yeetcoin.
+
+See doc/build-*.txt for instructions on building yeetcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Yeetcoin.
